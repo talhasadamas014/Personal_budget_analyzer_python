@@ -26,4 +26,4 @@ A Python-based personal finance project that tracks monthly income, expenses, to
 - Financial calculations
 
 ## Output
-The project generates charts such as monthly savings and income vs expenses.
+The project generates charts such as monthly savings and income vs expenses. It shows all the data in csv file and show whole data of every months.
